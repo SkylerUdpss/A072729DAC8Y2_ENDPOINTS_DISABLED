@@ -1,0 +1,2 @@
+# A072729DAC8Y2_ENDPOINTS_DISABLED
+Endpoints test with A X A str
